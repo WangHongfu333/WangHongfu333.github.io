@@ -23,7 +23,7 @@ repository               : "WangHongfu333.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hongfu.png"
+  avatar           : "profile.png"
   name             : "王宏福"
   pronouns         : # example: "she/her"  
   bio              : "助理研究员、博士后"
