@@ -21,7 +21,7 @@ menu: main
 
 [2] Wang H, Zeng Q, Wang A, et al. Application of gap metric to LADRC design in multilinear model of SDR[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2669954.
 
-[1] Han J, Wang H, Jiao G, et al. Research on active disturbance rejection control technology of electromechanical actuators[J]. Electronics, 2018, 7(9): 174.
+[1] Yang Z, Wang H, Xu H, et al. SDRE control of space inertial sensors via filtered feedback-cascaded extended high-gain observers[J]. Advances in Space Research, 2026. (共同一作)
 
 
 
