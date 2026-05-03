@@ -13,16 +13,17 @@ menu: main
 
 ### 期刊论文
 
-[5] Wang H, Wen G, Xue W, Fan Z, & Zhang F. Peak-Free Feedback-Cascaded Generalized Extended High-Gain Observer: A Multisaturation Approach[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
+[6] Wang H, Wen G, Xue W, Fan Z, & Zhang F. Peak-Free Feedback-Cascaded Generalized Extended High-Gain Observer: A Multisaturation Approach[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 
-[4] Wang H, Zeng Q, Wang A, et al. Closed‐Loop Fault Diagnosis of SDR Using Gap Metric, PCA, and Kalman’s Principle[J]. International Journal of Aerospace Engineering, 2023, 2023(1): 9994093. 
+[5] Wang H, Zeng Q, et al. Enhanced active disturbance rejection control based on compensation function observer for actuator faults in gas generators [J]. Proceedings of the iMechE, Part I: Journal of Systems and Control Engineering, 2026. 
 
-[3] Wang H, Zeng Q, Chen X, et al. Hybrid Modeling Method of SDR Interstage Valve Based on Mechanism and Data‐Driven[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2410681.
+[4] Yang Z, Wang H, Xu H, et al. SDRE control of space inertial sensors via filtered feedback-cascaded extended high-gain observers[J]. Advances in Space Research, 2026. (共同一作)
 
-[2] Wang H, Zeng Q, Wang A, et al. Application of gap metric to LADRC design in multilinear model of SDR[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2669954.
+[3] Wang H, Zeng Q, et al. Closed‐Loop Fault Diagnosis of SDR Using Gap Metric, PCA, and Kalman’s Principle[J]. International Journal of Aerospace Engineering, 2023, 2023(1): 9994093. 
 
-[1] Yang Z, Wang H, Xu H, et al. SDRE control of space inertial sensors via filtered feedback-cascaded extended high-gain observers[J]. Advances in Space Research, 2026. (共同一作)
+[2] Wang H, Zeng Q, et al. Hybrid Modeling Method of SDR Interstage Valve Based on Mechanism and Data‐Driven[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2410681.
 
+[1] Wang H, Zeng Q, et al. Application of gap metric to LADRC design in multilinear model of SDR[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2669954.
 
 
 
