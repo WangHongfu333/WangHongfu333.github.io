@@ -44,6 +44,8 @@ menu: main
 
 ### 期刊审稿
 
+[2] Reviewer, 65th IEEE Conference on Decision and Control (CDC 2026)
+
 [1]《兵器装备工程学报》（中文核心）审稿人，获得2019-2020年度“优秀审稿专家”称号。
 
 
