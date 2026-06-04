@@ -13,15 +13,15 @@ menu: main
 
 ### 代表性期刊论文
 
-[1] Wang H, Wen G, Xue W, Fan Z, & Zhang F. Peak-Free Feedback-Cascaded Generalized Extended High-Gain Observer: A Multisaturation Approach[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
+[1] Wang H, Wen G, Xue W, Fan Z, & Zhang F. Peak-Free Feedback-Cascaded Generalized Extended High-Gain Observer: A Multisaturation Approach [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 
-[2] Wang H, Zhang, F, et al. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection. IEEE Transactions on Aerospace and Electronic Systems, 2026.
+[2] Wang H, Li W, Xue W, Fan Z, & Zhang F. Output feedback control of space inertial sensor via a robust feedback-cascaded high-gain observer and nonlinear dynamic inversion with projection [J]. IEEE Transactions on Aerospace and Electronic Systems, 2026.
 
 [3] Wang H, Zeng Q, et al. Enhanced active disturbance rejection control based on compensation function observer for actuator faults in gas generators [J]. Proceedings of the iMechE, Part I: Journal of Systems and Control Engineering, 2026. 
 
-[4] Yang Z, Wang H, Xu H, et al. SDRE control of space inertial sensors via filtered feedback-cascaded extended high-gain observers[J]. Advances in Space Research, 2026. (共同一作)
+[4] Yang Z, Wang H, Xu H, et al. SDRE control of space inertial sensors via filtered feedback-cascaded extended high-gain observers [J]. Advances in Space Research, 2026. (共同一作)
 
-[5] Wang H, Zeng Q, et al. Application of gap metric to LADRC design in multilinear model of SDR[J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2669954.
+[5] Wang H, Zeng Q, et al. Application of gap metric to LADRC design in multilinear model of SDR [J]. International Journal of Aerospace Engineering, 2022, 2022(1): 2669954.
 
 
 
