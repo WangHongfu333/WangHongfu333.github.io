@@ -8,10 +8,15 @@ redirect_from:
 menu: main
 ---
 
-## 个人简介
+### 个人简介
+
 -中山大学博士、博士后、助理研究员，主要研究方向：非线性状态估计与非线性控制、分布式状态估计与分布式协同控制
 
-### 代表性期刊论文
+
+
+
+
+### 代表论文
 
 [5] Wang H, Wen G, Xue W, Fan Z, & Zhang F. Peak-Free Feedback-Cascaded Generalized Extended High-Gain Observer: A Multisaturation Approach [J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025.
 
@@ -25,7 +30,9 @@ menu: main
 
 
 
-### 研究项目
+
+
+### 代表项目
 
 [5] 某型分布式智能体控制方案制定，横向，主持，35万，结题，2025-2026.
 
@@ -40,6 +47,7 @@ menu: main
 
 
 
+
 ### 期刊审稿
 
 [3] Reviewer, 65th IEEE Conference on Decision and Control (CDC 2026).
@@ -49,8 +57,10 @@ menu: main
 [1]《兵器装备工程学报》（中文核心）审稿人，获得2019-2020年度“优秀审稿专家”称号。
 
 
-### 协助指导学生
 
+
+
+### 协助指导学生
 
 -郭运伟（中山大学 航空航天学院 2025级博士生）
 
