@@ -50,7 +50,9 @@ menu: main
 
 ### 期刊审稿
 
-65th IEEE Conference on Decision and Control (CDC 2026); Advances in Astronautics (AAST, 宇航学报英文版); 《兵器装备工程学报》（中文核心）审稿人，获得2019-2020年度“优秀审稿专家”称号
+65th IEEE Conference on Decision and Control (CDC 2026);
+Advances in Astronautics (AAST, 宇航学报英文版);
+《兵器装备工程学报》（中文核心），获得2019-2020年度“优秀审稿专家”称号
 
 
 
