@@ -22,15 +22,18 @@ repository               : "WangHongfu333.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "王宏福"
-  pronouns         : #"he/his"  
-  bio              : "讲师"
-  location         : "汕头"
-  employer         : "汕头大学"
-  uri              : # URL
-  email            : "wanghf\@stu.edu.cn" 
+  avatar: "profile.png"
+  name: "王宏福"
+  pronouns: "男"
+  bio: "讲师"
+  location: "汕头"
+  employer: "汕头大学"
+  uri: ""
+  email: "wanghf@stu.edu.cn"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:wanghf@stu.edu.cn"
 
   # Academic websites
   academia         : # URL
