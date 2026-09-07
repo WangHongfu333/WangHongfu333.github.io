@@ -10,7 +10,7 @@ menu: main
 
 ### 个人简介
 
--中山大学博士、博士后、助理研究员，主要研究方向：非线性状态估计与非线性控制、分布式状态估计与分布式协同控制
+-中山大学博士、博士后、助理研究员，汕头大学讲师，主要研究方向：非线性状态估计与非线性控制、分布式状态估计与分布式协同控制
 
 
 
@@ -50,11 +50,7 @@ menu: main
 
 ### 期刊审稿
 
-[3] Reviewer, 65th IEEE Conference on Decision and Control (CDC 2026).
-
-[2] Reviewer, Advances in Astronautics (AAST, 宇航学报英文版).
-
-[1]《兵器装备工程学报》（中文核心）审稿人，获得2019-2020年度“优秀审稿专家”称号。
+65th IEEE Conference on Decision and Control (CDC 2026); Advances in Astronautics (AAST, 宇航学报英文版); 《兵器装备工程学报》（中文核心）审稿人，获得2019-2020年度“优秀审稿专家”称号
 
 
 
