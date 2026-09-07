@@ -22,7 +22,7 @@ repository               : "WangHongfu333.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile.png"
+  avatar: "hongfu.png"
   name: "王宏福"
   pronouns: "男"
   bio: "讲师"
