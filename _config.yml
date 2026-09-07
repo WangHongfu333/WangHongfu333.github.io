@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "王宏福"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "讲师"
   location         : "汕头"
   employer         : "汕头大学"
   uri              : # URL
-  email            : "wanghf@stu.edu.cn" 
+  email            : "wanghf\@stu.edu.cn" 
 
   # Academic websites
   academia         : # URL
