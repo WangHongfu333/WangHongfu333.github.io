@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "王宏福"
-  pronouns         : # example: "she/her"  
-  bio              : "助理研究员、博士后"
-  location         : "深圳"
-  employer         : "中山大学"
+  pronouns         : "he/his"  
+  bio              : "讲师"
+  location         : "汕头"
+  employer         : "汕头大学"
   uri              : # URL
-  email            : "wanghf65@mail.sysu.edu.cn" 
+  email            : "wanghf@stu.edu.cn" 
 
   # Academic websites
   academia         : # URL
